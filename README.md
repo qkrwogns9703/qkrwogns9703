@@ -1,4 +1,6 @@
+<div align = "center">
 <img src = "https://bitda-images.s3.ap-northeast-2.amazonaws.com/profile-images/jaehunintro.gif" />
+</div>
 
 <h3 align = "center">🔧Stacks</h3>
 <p align = "center">Currently that I've used at least once</p>
