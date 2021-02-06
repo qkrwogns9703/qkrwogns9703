@@ -1,7 +1,7 @@
-<h1 align= "center">JaeHunPark</h1>
+<img src = "https://bitda-images.s3.ap-northeast-2.amazonaws.com/profile-images/jaehunintro.gif" />
 
 <h3 align = "center">🔧Stacks</h3>
-<br/>
+<p align = "center">Currently that I've used at least once</p>
 <div align = "center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000"/>&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=white"/>&nbsp;
