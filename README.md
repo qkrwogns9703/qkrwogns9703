@@ -4,8 +4,6 @@ Hi there, I'm Jaehun! 👋
 </h3>
 </div>
 
-<br/>
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrwogns9703&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
