@@ -1,5 +1,7 @@
 <div>
-Hi there, I'm Jaehun! 👋 
+<h3>
+Hi there, I'm Jaehun! 👋
+</h3>
 </div>
 
 <br/>
